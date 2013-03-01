@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tRiskFinder</string>
+    <string name="menu_settings">Settings</string>
+	<string name="button_database_check">Database on apps secure check</string>
+	<string name="button_brawsing_check">Brawsable apps secure check</string>
+	<string name="result_ng">Not Safety</string>
+	<string name="result_ok">Safety</string>
+	<!-- ImageView desk -->
+	<string name="ic_desc_app">ic_desc_app</string>
+</resources>
